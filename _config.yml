@@ -1,20 +1,20 @@
 #page title
-page_title                                : Focused Work - Timebox your tasks                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Focused Work - Time-boxed productivity    # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://forms.gle/5d9oopQpLitn4PP6A                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://forms.gle/5d9oopQpLitn4PP6A       # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://focusedwork.app/presskit                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://focusedwork.app/presskit          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Focused Work - Time-box your tasks                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Complete focused work every day, and build consistent productivity habits.
+app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Focused Work - Time-boxed productivity    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : Get more things done, in less time.
 
-enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
+enable_smart_app_banner                   : false                                     # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
@@ -34,24 +34,24 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Reach your optimium flow state & avoid burn out
-    description                           : Create balanced Focus Session's that suit a task, with a Planning, Focused Work, and Break structure.
-    fontawesome_icon_name                 : timer
+  - title                                 : Avoid burnout. Find your flow state.
+    description                           : Create timed Focus Session's for common tasks, with structured Planning, Focused Work, and Break stages.
+    fontawesome_icon_name                 : stopwatch
     
-  - title                                 : Daily productivity goals
-    description                           : Build momentum with adjustable Focus Session, Focused Work, and Break Time goals, to create long-term consistent habits.
+  - title                                 : Create a sustainable productivity habit.
+    description                           : Adjustable daily goals help you build momentum by completing focused work each day.
     fontawesome_icon_name                 : chart-pie
 
-  - title                                 : Stay Focused alerts
-    description                           : Your pocket study-buddy reminds you to stay on track during a session, and when to take a break.
+  - title                                 : Stay Focused alerts.
+    description                           : Your pocket study-buddy reminds you to stay on track, and lets you know when it's time to take a break.
     fontawesome_icon_name                 : exclamation
 
-  - title                                 : Focus with the right device for the agenda
-    description                           : Your daily goals, productivity history, and focus sessions are synced with iCloud, so you can freely alternate between your iPhone and iPad. (+ macOS soon!)
+  - title                                 : Switch devices, based on the agenda.
+    description                           : Your daily goals, productivity history, and focus sessions are saved to iCloud, so you can freely move between your iPhone and iPad (and macOS soon!).
     fontawesome_icon_name                 : sync
 
-  - title                                 : Share your completed focused work with Toggl
-    description                           : Track your time once, by selecting a Toggl project when starting a Focus Session
+  - title                                 : Send your Focused Work to Toggl.
+    description                           : Only track your time once by assigning a Toggl project to your Focus Session, to auto-submit completed Focused Work stages.
     fontawesome_icon_name                 : power-off
 
   - title                                 : # New Feature Title
