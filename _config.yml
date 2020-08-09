@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : exclamation
 
   - title                                 : Switch devices, based on the agenda.
-    description                           : Your daily goals, productivity history, and focus sessions are saved to iCloud, so you can freely move between your iPhone and iPad (and macOS soon!).
+    description                           : Everything is synced with iCloud, so you can freely move between your iPhone and iPad for the next Focus Session (and macOS soon!).
     fontawesome_icon_name                 : sync
 
   - title                                 : Send your Focused Work to Toggl.
