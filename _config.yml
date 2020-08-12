@@ -35,23 +35,23 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Avoid burnout. Find your flow state.
-    description                           : Create timed Focus Session's for common tasks, with structured Planning, Focused Work, and Break stages.
+    description                           : Create timed focus sessions for common tasks, with structured planning, focused work, and break stages.
     fontawesome_icon_name                 : stopwatch
     
   - title                                 : Create a sustainable productivity habit.
     description                           : Adjustable daily goals help you build momentum by completing focused work each day.
     fontawesome_icon_name                 : chart-pie
 
-  - title                                 : Stay Focused alerts.
+  - title                                 : "&#39;Stay Focused&#39; alerts."
     description                           : Your pocket study-buddy reminds you to stay on track, and lets you know when it's time to take a break.
     fontawesome_icon_name                 : exclamation
 
   - title                                 : Switch devices, based on the agenda.
-    description                           : Everything is synced with iCloud, so you can freely move between your iPhone and iPad for the next Focus Session (and macOS soon!).
+    description                           : Everything is synced with iCloud, so you can freely move between your iPhone and iPad for your next focus session. (and macOS soon!)
     fontawesome_icon_name                 : sync
 
-  - title                                 : Send your Focused Work to Toggl.
-    description                           : Only track your time once by assigning a Toggl project to your Focus Session, to auto-submit completed Focused Work stages.
+  - title                                 : Log your focus sessions with Toggl.
+    description                           : Track your time once by assigning a Toggl project to your focus session, and automatically log completed focused work.
     fontawesome_icon_name                 : power-off
 
   - title                                 : # New Feature Title
