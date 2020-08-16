@@ -6,25 +6,25 @@ include_in_header: yes
 
 # What is Focused Work?
 
-**Focused Work is an app which helps you focus and structure your time, to get tasks done.**
+**Focused Work is an app that helps you focus and structure your time.**
 
-It's a pocket productivity-buddy, that lets you design the perfect work routine for reaching a deep-focus state. By following simple ground rules as you work, your mind stays fresh and productive across the day.
+Structure helps you get work done. It encourages you to focus and take breaks to stay fresh and productive all day.
 
-One of its primary strengths is the ability to create a structured Focus Session for a task. You can add Focused Work, Planning, and Break stages, and adjust their time and order depending on the type of task.
+A key strength of the app is creating timed focus sessions, so you can design the perfect structure for getting work done. You can add focused work, planning, and break stages, and easily adjust them to find the right balance for reaching a state of deep focus.
 
-> For example, you can create a session for coding or content writing tasks, with a structure of; a 5-minute Planning stage, two 45-minute Focused Work stages, and a 10-minute Break stage in the middle. Depending on the current stage, the app will remind you to focus mid-session or take a break to keep your mind fresh.
+> For example, you can create a session for study, coding, or content writing tasks, with a structure of; a 5-minute planning stage, two 45-minute focused work stages, and a 10-minute break stage in the middle. The app will remind you to focus mid-session or take a break to keep your mind fresh.
 
 ## Core Features
 
 
-- **Create Focus Sessions** Structure your common tasks into timed Focused Work, Planning, and Break stages.
+- **Create timed Focus Sessions** Add structure to your tasks with focused work, planning, and break stages.
 - **Define your focus** By acknowledging your goal, you'll consciously make better decisions to complete your task.
 - **Clean UI** Use the app as a standard timer, with only your focus and current stage displayed mid-session.
-- **"Stay Focused" alerts** Be reminded to stay on track and when to take a break.
+- **Distraction alerts** Be reminded to stay focused, and when to take a break.
 - **Estimated finish times** See what time a session will finish at a glance, to squeeze in a quick task.
 - **Adjustable Daily Goals** Build momentum and a streak, by completing focused work every day.
 - **Productivity Tracking** Reflect on your productivity and add short notes to highlight good and bad habits.
-- **Toggl Integration** Track time once by assigning a project to a Focus Session, and share Focused Work time.
+- **Toggl Integration** Track time once, by assigning a project to your focus session.
 - **iCloud Syncing** Switch between devices based on the task. All sessions and goals are automatically synced to iOS devices logged in with the same Apple ID.
 - **Dark Mode** Perfect for productive night owls, so the timer doesn't light up your room.
 
@@ -36,11 +36,11 @@ One of its primary strengths is the ability to create a structured Focus Session
 
 ## Pricing
 
-Focused Work is Free, with the option of a yearly subscription, or one-time purchase to unlock all features. Focused Work is a universal app for iPhone and iPad. (and macOS - soon)
+Focused Work is free, with the option of a yearly subscription, or one-time purchase to unlock all features. Focused Work is a universal app for iPhone and iPad. (and macOS - soon)
 
 ## Release Date
 
-Focused Work will be launching on September 3rd 2020.
+Focused Work will be launching on September 7th 2020.
 
 ## Availability
 
@@ -52,22 +52,28 @@ To request a TestFlight beta invite, please email [focusedworkapp@michaeltigas.c
 
 Hey, I'm Michael! 👋
 
-I've been creating and launching fun & effective iOS and Android mobile apps for the last six years, as a freelancer & consultant under my brand [Hey, I Make Apps!](https://heyimakeapps.com), based in Melbourne, Australia.
+I've created fun iOS and Android apps for the last six years, as a freelancer & consultant under my brand [Hey, I Make Apps!](https://heyimakeapps.com), living in Melbourne, Australia.
 
-Focused Work started back in March 2020, as something to replace a Pomodoro chatbot on Discord that me and a few mates were using every day, whilst working from home. Over time we found it didn't scale well, as sessions felt too short to get into a flow-state for coding & content writing tasks, but were great for the average daily checklist.
+Focused Work began as something to replace a Pomodoro chatbot a few mates and I were using every day. 
 
-I searched the App Store for a simple and flexible alternative, to avoid diving into the settings each time I wanted to move between different task types, but most focus apps felt Pomodoro-centric.
+Before starting a session we entered commands to trigger alerts for when to work or take a break, but it eventually became repetitive and annoying. Although, we did enjoy the ability to experiment with adjusting when to show them, and its message.
 
-I figured I'd scratch my own itch and create a utility that'd let me create focus sessions catered to a type of task to;
+We decided to either create a smarter bot, or I could leverage my knowledge of mobile apps to create a better utility for our phones. The former sounded much less fun, so I began searching the App Store.
 
-1. Help me reach a flow-state
-2. Prevent me from overworking
-3. Be reminded to focus, during the session
+Most focused work apps were Pomodoro-centric and not really customisable. We also needed to adjust the timer when swapping between tasks that were well-defined or open-ended, as some required more time to reach a flow state. 
 
-After working my butt off across 160+ days and 410+ focused work hours, the app has grown into what it is today and I'm super excited to share it.
+None had reminders to snap us out of scrolling our Facebook or Twitter feeds when we should be working!
 
-I hope it encourages people to get more productive work done, every day, as it has for me. 🙂
+I was convinced I could scratch the itch by creating my own app that addressed the above, so we could;
+
+1. Reach a flow-state regardless of the type of task
+2. Prevent ourselves from overworking
+3. Be reminded to keep focusing, and take appropriate breaks
+
+After beginning with a blank canvas in March 2020, and 410+ focused work hours across 160+ days later, I am super excited to share it!
+
+I hope it encourages people to get more productive work done every day, as it has for me. 🙂
 
 ## Contact
 
-If you have any questions, please don’t hesitate to reach out to me at [focusedworkapp@michaeltigas.com.au](mailto:focusedworkapp@michaeltigas.com.au), or via my [Twitter](https://twitter.com/michael_tigas).
+If you have any questions, please don’t hesitate to reach out to me at [focusedworkapp@michaeltigas.com.au](mailto:focusedworkapp@michaeltigas.com.au), or through [Twitter](https://twitter.com/michael_tigas).
