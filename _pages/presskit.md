@@ -6,28 +6,27 @@ include_in_header: yes
 
 # What is Focused Work?
 
-**Focused Work is a simple app that helps you focus on tasks, and adds structure to your time so you can get more stuff done every day.**
+**Focused Work is an app which helps you focus and structure your time, to get tasks done.**
 
-Sitting down and starting a timer has good intent, but without boundaries, it's hard to decide how productive you want to be for the day, or prevent mental burnout.
+It's a pocket productivity-buddy, that lets you design the perfect work routine for reaching a deep-focus state. By following simple ground rules as you work, your mind stays fresh and productive across the day.
 
-One of its primary strengths is creating timed Focus Session's, which adds structure to your time so you can consistently focus on your tasks.
+One of its primary strengths is the ability to create a structured Focus Session for a task. You can add Focused Work, Planning, and Break stages, and adjust their time and order depending on the type of task.
 
-Sessions are structured with Focused Work, Planning, and Break stages, where you can design and optimise the perfect work routine to help reach a deep-focus state.
-
-> For example, you can create a session for coding or content writing tasks, by structuring it with a 5-minute Planning stage, two 45-minute Focused Work stages, and a 10-minute Break in the middle to keep your mind fresh.
+> For example, you can create a session for coding or content writing tasks, with a structure of; a 5-minute Planning stage, two 45-minute Focused Work stages, and a 10-minute Break stage in the middle. Depending on the current stage, the app will remind you to focus mid-session or take a break to keep your mind fresh.
 
 ## Core Features
 
-- **Create Focus Sessions for common tasks** Structure your time into Focused Work, Planning, and Break stages, for each task.
-- **Declare your focus before each session** You'll always see what your goal is, so you don't lose your way.
-- **Minimal UI** Only see what's important mid-session. The timer, your focus, and the current stage.
-- **"Stay Focused" alerts** Be reminded to stay on track mid-session, and when to take a break.
-- **Squeeze in a quick session** See what time each session will finish, at a glance.
-- **Adjustable Daily Goals** Build momentum by completing focused work every day, and start a streak.
-- **Productivity Tracking** Rate your productivity, and add short notes to reflect on your habits.
-- **Toggl Integration** Track time once, by assigning a project to send focus time to Toggl.
+
+- **Create Focus Sessions** Structure your common tasks into timed Focused Work, Planning, and Break stages.
+- **Define your focus** By acknowledging your goal, you'll consciously make better decisions to complete your task.
+- **Clean UI** Use the app as a standard timer, with only your focus and current stage displayed mid-session.
+- **"Stay Focused" alerts** Be reminded to stay on track and when to take a break.
+- **Estimated finish times** See what time a session will finish at a glance, to squeeze in a quick task.
+- **Adjustable Daily Goals** Build momentum and a streak, by completing focused work every day.
+- **Productivity Tracking** Reflect on your productivity and add short notes to highlight good and bad habits.
+- **Toggl Integration** Track time once by assigning a project to a Focus Session, and share Focused Work time.
 - **iCloud Syncing** Switch between devices based on the task. All sessions and goals are automatically synced to iOS devices logged in with the same Apple ID.
-- **Dark Mode** Perfect for night owls, that prefer to not have the timer light up the room at night.
+- **Dark Mode** Perfect for productive night owls, so the timer doesn't light up your room.
 
 ## Media
 
