@@ -83,6 +83,53 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 ### iPad
 
+<p align="middle">
+	<img 
+  		src="/assets/promoart/focusedwork_ipad13_1.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+  	<img 
+  		src="/assets/promoart/focusedwork_ipad13_2.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+</p>
+
+<p align="middle">
+	<img 
+  		src="/assets/promoart/focusedwork_ipad13_3.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+  	<img 
+  		src="/assets/promoart/focusedwork_ipad13_4.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+</p>
+
+<p align="middle">
+	<img 
+  		src="/assets/promoart/focusedwork_ipad13_5.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+  	<img 
+  		src="/assets/promoart/focusedwork_ipad13_6.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+</p>
+
+<p align="middle">
+	<img 
+  		src="/assets/promoart/focusedwork_ipad13_7.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+</p>
+
 ## Pricing
 
 Focused Work is free, with the option of a yearly subscription, or one-time purchase to unlock all features. Focused Work is a universal app for iPhone and iPad. (and macOS - soon)
