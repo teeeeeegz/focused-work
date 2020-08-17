@@ -16,9 +16,8 @@ A key strength of the app is creating timed focus sessions, so you can design th
 
 ## Core Features
 
-
 - **Create timed Focus Sessions** Add structure to your tasks with focused work, planning, and break stages.
-- **Define your focus** By acknowledging your goal, you'll consciously make better decisions to complete your task.
+- **Define your focus** Knowing your goal helps you make better decisions to complete a task.
 - **Clean UI** Use the app as a standard timer, with only your focus and current stage displayed mid-session.
 - **Distraction alerts** Be reminded to stay focused, and when to take a break.
 - **Estimated finish times** See what time a session will finish at a glance, to squeeze in a quick task.
@@ -140,9 +139,9 @@ Focused Work will be launching on September 7th 2020.
 
 ## Availability
 
-Focused Work is currently undergoing closed-beta testing, but will be available in all territories that the App Store supports.
+Focused Work is currently in beta testing, but will be available in all territories that the App Store supports.
 
-To request a TestFlight beta invite, please email [focusedworkapp@michaeltigas.com.au](mailto:focusedworkapp@michaeltigas.com.au).
+To jump on the TestFlight beta [click here](https://forms.gle/5d9oopQpLitn4PP6A).
 
 ## About the Developer
 
@@ -166,7 +165,7 @@ I was convinced I could scratch the itch by creating my own app that addressed t
 2. Prevent ourselves from overworking
 3. Be reminded to keep focusing, and take appropriate breaks
 
-After beginning with a blank canvas in March 2020, and 410+ focused work hours across 160+ days later, I am super excited to share it!
+I began with a blank canvas in March 2020, and after more than 430 focused work hours across 165 days, I am super excited to share the app!
 
 I hope it encourages people to get more productive work done every day, as it has for me. 🙂
 
