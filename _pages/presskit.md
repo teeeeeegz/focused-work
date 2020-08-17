@@ -30,7 +30,56 @@ A key strength of the app is creating timed focus sessions, so you can design th
 
 ## Media
 
+All images, promo art, and the Focused Work app logo are downloadable [here](/assets/focusedwork_presskit.zip). Alternatively, feel free to pick and choose from below!
+
 ### iPhone
+
+<p align="middle">
+	<img 
+  		src="/assets/promoart/focusedwork_11promax_1.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+  	<img 
+  		src="/assets/promoart/focusedwork_11promax_2.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+</p>
+
+<p align="middle">
+	<img
+  		src="/assets/promoart/focusedwork_11promax_3.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+  	  <img 
+  		src="/assets/promoart/focusedwork_11promax_4.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+</p>
+
+<p align="middle">
+  	<img 
+  		src="/assets/promoart/focusedwork_11promax_5.png" 
+  		width="300"
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/>
+  	<img 
+  		src="/assets/promoart/focusedwork_11promax_6.png" 
+  		width="300"
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+  	/> 
+</p>
+
+<p align="middle">
+  	<img 
+  		src="/assets/promoart/focusedwork_11promax_7.png" 
+  		width="300" 
+  		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+	/>
+</p>
 
 ### iPad
 
