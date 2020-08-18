@@ -8,21 +8,21 @@ include_in_header: yes
 
 **Focused Work is an app that helps you focus and structure your time.**
 
-Structure helps you get work done. It encourages you to focus and take breaks to stay fresh and productive all day.
+Structure helps you get work done. It allows you to focus and take breaks, to stay fresh and productive all day.
 
-A key strength of the app is creating timed focus sessions, so you can design the perfect structure for getting work done. You can add focused work, planning, and break stages, and easily adjust them to find the right balance for reaching a state of deep focus.
+A key strength of the app is creating timed focus sessions, to break tasks up into focused work and break periods. Finding the right balance for reaching a state of deep focus, is key.
 
-> For example, you can create a session for study, coding, or content writing tasks, with a structure of; a 5-minute planning stage, two 45-minute focused work stages, and a 10-minute break stage in the middle. The app will remind you to focus mid-session or take a break to keep your mind fresh.
+> For example, you can create a session for study, coding, or content writing tasks, with a structure of; a 5-minute planning stage, two 45-minute focused work stages, and a 10-minute break stage in the middle. The app will remind you to focus mid-session, and take a break to keep your mind fresh.
 
 ## Core Features
 
 - **Create timed Focus Sessions** Add structure to your tasks with focused work, planning, and break stages.
 - **Define your focus** Knowing your goal helps you make better decisions to complete a task.
-- **Clean UI** Use the app as a standard timer, with only your focus and current stage displayed mid-session.
+- **Simple design** Always-on timer. See your focus and current stage at a glance. Rotate the screen. 
 - **Distraction alerts** Be reminded to stay focused, and when to take a break.
 - **Estimated finish times** See what time a session will finish at a glance, to squeeze in a quick task.
-- **Adjustable Daily Goals** Build momentum and a streak, by completing focused work every day.
-- **Productivity Tracking** Reflect on your productivity and add short notes to highlight good and bad habits.
+- **Productivity Goals** Build momentum and a streak, by completing focused work every day.
+- **Productivity Reflection** Rate sessions, and add short notes to highlight good or bad habits.
 - **Toggl Integration** Track time once, by assigning a project to your focus session.
 - **iCloud Syncing** Switch between devices based on the task. All sessions and goals are automatically synced to iOS devices logged in with the same Apple ID.
 - **Dark Mode** Perfect for productive night owls, so the timer doesn't light up your room.
@@ -145,7 +145,7 @@ Focused Work is free, with the option of a yearly subscription, or one-time purc
 
 ## Release Date
 
-Focused Work will be launching on September 7th 2020.
+Focused Work will be launching on September 8th 2020.
 
 ## Availability
 
