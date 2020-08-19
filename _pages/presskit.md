@@ -6,17 +6,17 @@ include_in_header: yes
 
 # What is Focused Work?
 
-**Focused Work is an app that helps you focus and structure your time.**
+**Focused Work is an app that helps you focus and structure your time effectively.**
 
 Structure helps you get work done. It allows you to focus and take breaks, to stay fresh and productive all day.
 
-A key strength of the app is creating timed focus sessions, to break tasks up into focused work and break periods. Finding the right balance for reaching a state of deep focus, is key.
+A key strength of the app is creating timed focus sessions, to break up tasks into focused work and break periods. Optimising for deep focus, is key.
 
 > For example, you can create a session for study, coding, or content writing tasks, with a structure of; a 5-minute planning stage, two 45-minute focused work stages, and a 10-minute break stage in the middle. The app will remind you to focus mid-session, and take a break to keep your mind fresh.
 
 ## Core Features
 
-- **Create timed Focus Sessions** Add structure to your tasks with focused work, planning, and break stages.
+- **Focus Sessions** Create structure for your tasks with focused work, planning, and break stages.
 - **Define your focus** Knowing your goal helps you make better decisions to complete a task.
 - **Simple design** Always-on timer. See your focus and current stage at a glance. Rotate the screen. 
 - **Distraction alerts** Be reminded to stay focused, and when to take a break.
