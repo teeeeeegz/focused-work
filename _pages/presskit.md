@@ -89,12 +89,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
 	<img 
-  		src="/assets/promoart/focusedwork_ipad13_1.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_1.png" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
   	<img 
-  		src="/assets/promoart/focusedwork_ipad13_2.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_2.png" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
@@ -102,12 +102,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
 	<img 
-  		src="/assets/promoart/focusedwork_ipad13_3.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_3.png" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
   	<img 
-  		src="/assets/promoart/focusedwork_ipad13_4.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_4.png" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
@@ -115,12 +115,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
 	<img 
-  		src="/assets/promoart/focusedwork_ipad13_5.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_5.png" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
   	<img 
-  		src="/assets/promoart/focusedwork_ipad13_6.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_6.png" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
@@ -128,12 +128,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
   <img 
-      src="/assets/promoart/focusedwork_ipad13_7.png" 
+      src="/assets/promoart/focusedwork_ipadpro_faceid_7.png" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
   <img 
-      src="/assets/promoart/focusedwork_ipad13_8.png" 
+      src="/assets/promoart/focusedwork_ipadpro_faceid_8.png" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
