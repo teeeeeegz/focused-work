@@ -151,7 +151,12 @@ Focused Work will be launching on September 8th 2020.
 
 Focused Work is currently in beta testing, but will be available in all territories that the App Store supports.
 
-To jump on the TestFlight beta [click here](https://forms.gle/5d9oopQpLitn4PP6A).
+To jump on the TestFlight beta [click here](https://testflight.apple.com/join/0cdZsG77).
+
+It is currently available for pre-order on the [App Store](https://apps.apple.com/us/app/id1523968394).
+
+If you'd like to be kept in the loop with major updates, please check out this [this page](https://forms.gle/5d9oopQpLitn4PP6A).
+
 
 ## About the Developer
 
