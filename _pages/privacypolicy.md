@@ -14,7 +14,7 @@ We use Bugsnag for crash reporting. These reports include non-identifiable infor
 We use Firebase Analytics to collect anonymous data, only for use in improving the app. The privacy policy for Firebase can be found [here](https://firebase.google.com/policies/analytics).
 
 ## Personal Data
-**We collect no personal data at all. Nothing.** Everything do you is saved on-device and to your iCloud, which is synced across your devices using the same iCloud account.
+**We collect no personal data at all. Nothing.** Everything you do is saved on-device and to your iCloud, which is synced across your devices using the same iCloud account.
 
 ## Any Questions?
 If you have any questions about our Privacy Policy, please don't hesitate to [contact us](mailto:focusedworkapp@michaeltigas.com.au).
