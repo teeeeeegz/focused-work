@@ -58,6 +58,10 @@ features                                  :
     description                           : Perfect for productive night owls, so the timer doesn't light up your room.
     fontawesome_icon_name                 : moon
 
+  - title                                 : App Icons.
+    description                           : Twelve colours, with Light + Dark variants for matching your home screen.
+    fontawesome_icon_name                 : images
+
 
 
 # Theme Settings
