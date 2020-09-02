@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 28 2020
+September 2 2020
 
 # Terms of Use
 ## Free version
@@ -14,7 +14,15 @@ Focused Work provides a free version in which you can access limited features of
 
 ## Pro version
 
-This is enabled by a one time purchase or a cancelable subscription, which unlocks all features in the app.
+Focused Work Pro is enabled via an auto-renewing subscription, or lifetime purchase.
+
+Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. 
+
+You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription.
+
+Auto-renewal may be turned off by the user, by going to the user's Account Settings after purchase.
+
+The duration and price of each subscription is displayed on the purchase screen, and updated at the time of purchase.
 
 ## Any Questions?
 If you have any questions about the Terms of Use, please don't hesitate to [contact us](mailto:focusedworkapp@michaeltigas.com.au).
