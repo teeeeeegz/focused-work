@@ -23,7 +23,7 @@ A key strength of the app is creating timed focus sessions, to break up tasks in
 - **Estimated finish times** See what time a session will finish at a glance, to squeeze in a quick task.
 - **Productivity Goals** Build momentum and a streak, by completing focused work every day.
 - **Productivity Reflection** Rate sessions, and add short notes to highlight good or bad habits.
-- **Toggl Integration** Track time once, by assigning a project to your focus session.
+- **Toggl Integration** Track time once, by assigning projects and tags to your focus sessions.
 - **iCloud Syncing** Switch between devices based on the task. All sessions and goals are automatically synced to iOS devices logged in with the same Apple ID.
 - **Dark Mode** Perfect for productive night owls, so the timer doesn't light up your room.
 - **App Icons** Twelve colours, with Light + Dark variants for matching your home screen.

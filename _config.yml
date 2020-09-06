@@ -50,8 +50,8 @@ features                                  :
     description                           : Freely move between your iPhone and iPad, depending on your task. (macOS coming soon!)
     fontawesome_icon_name                 : sync
 
-  - title                                 : Share your productivity time with Toggl.
-    description                           : Track time once, by assigning a project to your focus session.
+  - title                                 : Share productivity time with Toggl.
+    description                           : Track time once, by assigning projects and tags to your focus sessions.
     fontawesome_icon_name                 : power-off
 
   - title                                 : Dark Mode.
