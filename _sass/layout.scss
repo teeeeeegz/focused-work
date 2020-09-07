@@ -354,6 +354,17 @@ nav > ul li a:active {
   }
 }
 
+.productHuntButton {
+	display: block;
+}
+
+@media only screen and (min-width: 768px) {
+	.productHuntButton {
+		margin-left: 16px
+	}
+
+}
+
 .playStore {
 	height: 75px;
 	margin-right: 24px;
