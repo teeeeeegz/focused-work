@@ -197,7 +197,7 @@ I was convinced I could scratch the itch by creating my own app that addressed t
 2. Prevent ourselves from overworking
 3. Be reminded to keep focusing, and take appropriate breaks
 
-I began with a blank canvas in March 2020, and after more than 510 focused work hours across 179 days, I am super excited to share the app!
+I began with a blank canvas in March 2020, and after more than 540 focused work hours across 186 days, I am super excited to share the app!
 
 I hope it encourages people to get more productive work done every day, as it has for me. 🙂
 
