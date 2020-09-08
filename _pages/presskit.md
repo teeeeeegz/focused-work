@@ -158,19 +158,15 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 ## Pricing
 
-Focused Work is free, with the option of a yearly subscription, or one-time purchase to unlock all features. Focused Work is a universal app for iPhone and iPad. (and macOS - soon)
+Focused Work is free to download, with the option of a $9.99 yearly subscription, or $19.99 one-time purchase to unlock all features. Focused Work is a universal app for iPhone and iPad. (and macOS - soon)
 
-## Release Date
+## Original Release Date
 
-Focused Work will be launching on September 8th 2020.
+Focused Work launched to the Apple App Store on September 8th 2020.
 
 ## Availability
 
-Focused Work is currently in beta testing, but will be available in all territories that the App Store supports.
-
-To jump on the TestFlight beta [click here](https://testflight.apple.com/join/0cdZsG77).
-
-It is currently available for pre-order on the [App Store](https://apps.apple.com/us/app/id1523968394).
+Focused Work is available in all territories that the App Store supports, and can be downloaded [here](https://apps.apple.com/us/app/id1523968394).
 
 If you'd like to be kept in the loop with major updates, please check out this [this page](https://forms.gle/5d9oopQpLitn4PP6A).
 
