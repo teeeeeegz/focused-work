@@ -21,12 +21,12 @@ enable_smart_app_banner                   : true                              # 
 # Information About Yourself
 your_name                                 : Michael Tigas                                
 your_link                                 : https://twitter.com/michael_tigas
-your_city                                 : Melbourne 🇦🇺 🦘
+your_city                                 : Melbourne, Australia. 🇦🇺 🦘
 email_address                             : focusedworkapp@michaeltigas.com.au
 facebook_username                         : FocusedWorkApp                                          
 instagram_username                        : focusedworkapp
 twitter_username                          : FocusedWorkApp
-github_username                           : teeeeeegz
+github_username                           : 
 youtube_username                          :
 
 
@@ -92,7 +92,7 @@ feature_icons_background_color            : "#e6e6e6"
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#000000"
 
 
 
