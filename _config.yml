@@ -62,6 +62,21 @@ features                                  :
     description                           : Twelve colours, with Light + Dark variants for matching your home screen.
     fontawesome_icon_name                 : images
 
+# Press Review List                       Edit, add or remove press reviews to be presented.
+pressreviews                              :
+
+  - author                                : Ryan Christoffel
+    quote                                 : A simple, but valuable utility for creating timed focus sessions of productivity.
+    sitename                              : MacStories
+    siteurl                               : https://www.macstories.net/reviews/focused-work-review-staying-on-task-amidst-growing-distractions/
+    fontawesome_icon_name                 : newspaper
+    
+  - author                                : Victor Marks
+    quote                                 : Focused Work is a tool that helps overcome that first step.
+    sitename                              : Knapsack
+    siteurl                               : https://knapsack.news/2020/09/09/focused-work-how-do-we-get-anything-done-at-all/
+    fontawesome_icon_name                 : newspaper
+
 
 
 # Theme Settings

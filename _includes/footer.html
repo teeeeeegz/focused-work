@@ -1,7 +1,7 @@
 <footer>
 
 	<div class="footerSubscribe">
-		<hr class="footerSubscribeSeparator">
+
 		<p class="footerText" style="font-weight: bold;">Stay in the loop with Focused Work news!</p>
 		<script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 		<form action="https://app.convertkit.com/forms/1681846/subscriptions" class="seva-form formkit-form" method="post" data-sv-form="1681846" data-uid="7de013ad29" data-format="inline" data-version="5" 
@@ -37,6 +37,15 @@
 
 	<div class="footerIcons">
 
+		{% if site.twitter_username %}
+			<a href="https://twitter.com/{{ site.twitter_username }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-twitter fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+
 		{% if site.facebook_username %}
 			<a href="https://facebook.com/{{ site.facebook_username }}">
 				<span class="fa-stack fa-1x">
@@ -46,11 +55,11 @@
 			</a>
 		{% endif %}
 
-		{% if site.twitter_username %}
-			<a href="https://twitter.com/{{ site.twitter_username }}">
+		{% if site.instagram_username %}
+			<a href="https://instagram.com/{{ site.instagram_username }}">
 				<span class="fa-stack fa-1x">
 					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-twitter fa-stack-1x"></i>
+					<i class="socialIconTop fab fa-instagram fa-stack-1x"></i>
 				</span>
 			</a>
 		{% endif %}
