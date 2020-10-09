@@ -62,6 +62,12 @@ features                                  :
     description                           : Twelve colours, with Light + Dark variants for matching your home screen.
     fontawesome_icon_name                 : images
 
+  - title                                 : Widgets.
+    description                           : Focus session timers, quickly start a session, view today's productivity goals.
+    fontawesome_icon_name                 : th-large
+
+
+
 # Press Review List                       Edit, add or remove press reviews to be presented.
 pressreviews                              :
 

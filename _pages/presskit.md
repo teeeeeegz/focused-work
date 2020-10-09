@@ -27,6 +27,7 @@ A key strength of the app is creating timed focus sessions, to break up tasks in
 - **iCloud Syncing** Switch between devices based on the task. All sessions and goals are automatically synced to iOS devices logged in with the same Apple ID.
 - **Dark Mode** Perfect for productive night owls, so the timer doesn't light up your room.
 - **App Icons** Twelve colours, with Light + Dark variants for matching your home screen.
+- **Widgets** Focus session timers, quickly start a session, view today's productivity goals.
 
 ## Media
 
@@ -92,6 +93,11 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
+    <img 
+      src="/assets/promoart/focusedwork_11promax_10.png" 
+      width="300" 
+      style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+    />
 </p>
 
 ### iPad
@@ -151,6 +157,11 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 <p align="middle">
   <img 
       src="/assets/promoart/focusedwork_ipadpro_faceid_9.png" 
+      width="300" 
+      style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+    />
+  <img 
+      src="/assets/promoart/focusedwork_ipadpro_faceid_10.png" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
