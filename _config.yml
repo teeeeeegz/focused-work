@@ -82,6 +82,12 @@ pressreviews                              :
     sitename                              : Knapsack
     siteurl                               : https://knapsack.news/2020/09/09/focused-work-how-do-we-get-anything-done-at-all/
     fontawesome_icon_name                 : newspaper
+    
+  - author                                : Oliver Haslam
+    quote                                 : Focused Work helps you stay on track better than ever.
+    sitename                              : iMore
+    siteurl                               : https://www.imore.com/focused-work-gains-ios-14-home-screen-widgets-help-you-stay-track-better-ever/
+    fontawesome_icon_name                 : newspaper
 
 
 
