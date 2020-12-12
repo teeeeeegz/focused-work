@@ -37,12 +37,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
 	<img 
-  		src="/assets/promoart/focusedwork_11promax_1.png" 
+  		src="/assets/promoart/focusedwork_12promax_1.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
   	<img 
-  		src="/assets/promoart/focusedwork_11promax_2.png" 
+  		src="/assets/promoart/focusedwork_12promax_2.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
@@ -50,12 +50,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
 	<img
-  		src="/assets/promoart/focusedwork_11promax_3.png" 
+  		src="/assets/promoart/focusedwork_12promax_3.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
   	  <img 
-  		src="/assets/promoart/focusedwork_11promax_4.png" 
+  		src="/assets/promoart/focusedwork_12promax_4.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
@@ -63,12 +63,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
   	<img 
-  		src="/assets/promoart/focusedwork_11promax_5.png" 
+  		src="/assets/promoart/focusedwork_12promax_5.jpg" 
   		width="300"
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
   	<img 
-  		src="/assets/promoart/focusedwork_11promax_6.png" 
+  		src="/assets/promoart/focusedwork_12promax_6.jpg" 
   		width="300"
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/> 
@@ -76,12 +76,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
     <img 
-      src="/assets/promoart/focusedwork_11promax_7.png" 
+      src="/assets/promoart/focusedwork_12promax_7.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
     <img 
-      src="/assets/promoart/focusedwork_11promax_8.png" 
+      src="/assets/promoart/focusedwork_12promax_8.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
@@ -89,12 +89,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
     <img 
-      src="/assets/promoart/focusedwork_11promax_9.png" 
+      src="/assets/promoart/focusedwork_12promax_9.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
     <img 
-      src="/assets/promoart/focusedwork_11promax_10.png" 
+      src="/assets/promoart/focusedwork_12promax_10.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
@@ -104,12 +104,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
 	<img 
-  		src="/assets/promoart/focusedwork_ipadpro_faceid_1.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_1.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
   	<img 
-  		src="/assets/promoart/focusedwork_ipadpro_faceid_2.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_2.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
@@ -117,12 +117,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
 	<img 
-  		src="/assets/promoart/focusedwork_ipadpro_faceid_3.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_3.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
   	<img 
-  		src="/assets/promoart/focusedwork_ipadpro_faceid_4.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_4.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
@@ -130,12 +130,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
 	<img 
-  		src="/assets/promoart/focusedwork_ipadpro_faceid_5.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_5.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
   	<img 
-  		src="/assets/promoart/focusedwork_ipadpro_faceid_6.png" 
+  		src="/assets/promoart/focusedwork_ipadpro_faceid_6.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
@@ -143,12 +143,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
   <img 
-      src="/assets/promoart/focusedwork_ipadpro_faceid_7.png" 
+      src="/assets/promoart/focusedwork_ipadpro_faceid_7.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
   <img 
-      src="/assets/promoart/focusedwork_ipadpro_faceid_8.png" 
+      src="/assets/promoart/focusedwork_ipadpro_faceid_8.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
@@ -156,12 +156,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
   <img 
-      src="/assets/promoart/focusedwork_ipadpro_faceid_9.png" 
+      src="/assets/promoart/focusedwork_ipadpro_faceid_9.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
   <img 
-      src="/assets/promoart/focusedwork_ipadpro_faceid_10.png" 
+      src="/assets/promoart/focusedwork_ipadpro_faceid_10.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
