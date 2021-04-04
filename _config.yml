@@ -12,7 +12,7 @@ presskit_download_link                    :                                   # 
 app_icon                                  :                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Get more things done, every day.
+app_description                           : A simple, flexible Focus Timer.
 
 enable_smart_app_banner                   : true                              # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -24,7 +24,7 @@ your_link                                 : https://twitter.com/michael_tigas
 your_city                                 : Melbourne, Australia. 🇦🇺 🦘
 email_address                             : focusedworkapp@michaeltigas.com.au
 facebook_username                         : FocusedWorkApp                                          
-instagram_username                        : focusedworkapp
+instagram_username                        : 
 twitter_username                          : FocusedWorkApp
 github_username                           : 
 youtube_username                          :
@@ -34,36 +34,48 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Create timed Focus Sessions.
-    description                           : Design the perfect structure for getting work done, to stay fresh and productive.
+  - title                                 : Focus Sessions
+    description                           : Create structure for your tasks with Focused Work, Planning, and Break stages.
     fontawesome_icon_name                 : stopwatch
     
-  - title                                 : Adjustable daily goals.
-    description                           : Build momentum and a streak, by completing focused work every day.
-    fontawesome_icon_name                 : chart-pie
+  - title                                 : Customise each Session
+    description                           : Reorder stages, adjust their length, and add quick notes.
+    fontawesome_icon_name                 : edit
 
-  - title                                 : Distraction alerts.
-    description                           : Be reminded to stay focused, and when to take a break.
+  - title                                 : Self-accountability
+    description                           : Each session begins by asking what will you focus on, and remains on-screen.
+    fontawesome_icon_name                 : sticky-note
+
+  - title                                 : Focus Reminders
+    description                           : Avoid distractions by being reminded to stay focused during each session.
     fontawesome_icon_name                 : exclamation
 
-  - title                                 : iCloud Syncing.
-    description                           : Freely move between your iPhone and iPad, depending on your task. (macOS coming soon!)
-    fontawesome_icon_name                 : sync
+  - title                                 : Productivity Dashboard
+    description                           : Track your productivity goals and build a daily focus streak.
+    fontawesome_icon_name                 : chart-pie
 
-  - title                                 : Share productivity time with Toggl.
-    description                           : Track time once, by assigning projects and tags to your focus sessions.
-    fontawesome_icon_name                 : power-off
-
-  - title                                 : Dark Mode.
-    description                           : Perfect for productive night owls, so the timer doesn't light up your room.
+  - title                                 : Optimised for iPadOS and macOS
+    description                           : Quickly start sessions from the Sidebar, and use Keyboard Shortcuts.
     fontawesome_icon_name                 : moon
 
-  - title                                 : App Icons.
-    description                           : Twelve colours, with Light + Dark variants for matching your home screen.
+  - title                                 : Toggl Integration
+    description                           : Track time once by logging stages. Assign Projects and Tags. Create common presets.
+    fontawesome_icon_name                 : power-off
+
+  - title                                 : iCloud Syncing
+    description                           : Move between iPhone, iPad, and Mac. Created sessions and productivity history are synced.
+    fontawesome_icon_name                 : sync
+
+  - title                                 : Productivity Export
+    description                           : Review all completed Focus Sessions and breadcrumbs in a simple CSV format.
+    fontawesome_icon_name                 : file-download
+
+  - title                                 : App Icons
+    description                           : Twelve colours, Light + Dark variants to match your home screen.
     fontawesome_icon_name                 : images
 
-  - title                                 : Widgets.
-    description                           : Focus session timers, quickly start a session, view today's productivity goals.
+  - title                                 : Widgets
+    description                           : Quickly start a new session, view the countdown timer, and see your goal progress.
     fontawesome_icon_name                 : th-large
 
 
