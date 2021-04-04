@@ -6,28 +6,35 @@ include_in_header: yes
 
 # What is Focused Work?
 
-**Focused Work is an app that helps you focus and structure your time effectively.**
+**Focused Work is a flexible focus timer that helps you structure your time effectively.**
 
-Structure helps you get work done. It allows you to focus and take breaks, to stay fresh and productive all day.
+Structure keeps you fresh and productive, so you can get more work done!
 
-A key strength of the app is creating timed focus sessions, to break up tasks into focused work and break periods. Optimising for deep focus, is key.
+A key strength of Focused Work is creating timed focus sessions that break up tasks into smaller parts.
 
-> For example, you can create a session for study, coding, or content writing tasks, with a structure of; a 5-minute planning stage, two 45-minute focused work stages, and a 10-minute break stage in the middle. The app will remind you to focus mid-session, and take a break to keep your mind fresh.
+> Each task, such as studying, coding, and content writing, could be structured as; a 5-minute
+ Planning stage, two 45-minute Focused Work stages, with a 10-minute Break stage in the middle
+
+Every session helps you remain self-accountable by asking what will you focus on, and reminds you to maintain focus.
 
 ## Core Features
 
-- **Focus Sessions** Create structure for your tasks with focused work, planning, and break stages.
-- **Define your focus** Knowing your goal helps you make better decisions to complete a task.
-- **Simple design** Always-on timer. See your focus and current stage at a glance. Rotate the screen. 
-- **Distraction alerts** Be reminded to stay focused, and when to take a break.
-- **Estimated finish times** See what time a session will finish at a glance, to squeeze in a quick task.
-- **Productivity Goals** Build momentum and a streak, by completing focused work every day.
-- **Productivity Reflection** Rate sessions, and add short notes to highlight good or bad habits.
-- **Toggl Integration** Track time once, by assigning projects and tags to your focus sessions.
-- **iCloud Syncing** Switch between devices based on the task. All sessions and goals are automatically synced to iOS devices logged in with the same Apple ID.
-- **Dark Mode** Perfect for productive night owls, so the timer doesn't light up your room.
-- **App Icons** Twelve colours, with Light + Dark variants for matching your home screen.
-- **Widgets** Focus session timers, quickly start a session, view today's productivity goals.
+- **Focus Sessions** Create structure for your tasks with Focused Work, Planning, and Break stages.
+- **Customise each Session** Reorder stages, adjust their length, and add quick notes.
+- **Self-accountability** Each session begins by asking what will you focus on, and remains on-screen.
+- **Simple design** See your focus and current stage at a glance, with an always-on countdown timer.
+- **Focus Reminders** Avoid distractions by being reminded to stay focused during each session.
+- **Estimated finish time** Quickly see each session's finish time, to squeeze in an extra task.
+- **Productivity Dashboard** Track your productivity goals and build a daily focus streak.
+- **Session Reflection** Rate sessions, and add short notes to remember good and bad habits.
+- **Widgets** Quickly start a new session, view the countdown timer, and see your goal progress.
+- **Dark Mode** Quickly start a new session, view the countdown timer, and see your goal progress. 
+- **Optimised for iPadOS and macOS** Quickly start favourite sessions from the Sidebar, and use Keyboard Shortcuts. Connect a Magic Trackpad or Magic Mouse for a pleasant touch-less experience.
+- **More Best in Class platform features** Dynamic Type accessibility support. Low Power Mode awareness for iPhone.
+- **Toggl Integration** Track time once by logging stages. Assign Projects and Tags. Create common presets.
+- **Productivity Export** Review all completed Focus Sessions in a simple CSV format. Analyse breadcrumbs such as when sessions were started, completed, and other events including how often stages were paused, skipped, or restarted.
+- **iCloud Syncing** Move between iPhone, iPad, and Mac. Created sessions and productivity history are synced between devices with the same Apple ID.
+- **App Icons** Twelve colours. Light & Dark variants. Pick a favourite icon to match your home screen.
 
 ## Media
 
@@ -169,7 +176,7 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 ## Pricing
 
-Focused Work is free to download, with the option of a $9.99 yearly subscription, or $19.99 one-time purchase to unlock all features. Focused Work is a universal app for iPhone and iPad. (and macOS - soon)
+Focused Work is free to download, with the option of a $9.99 yearly subscription, or $19.99 one-time purchase to unlock all features. Focused Work is a universal app for iPhone, iPad, and macOS.
 
 ## Original Release Date
 
@@ -179,7 +186,7 @@ Focused Work launched to the Apple App Store on September 8th 2020.
 
 Focused Work is available in all territories that the App Store supports, and can be downloaded [here](https://apps.apple.com/us/app/id1523968394).
 
-If you'd like to be kept in the loop with major updates, please check out this [this page](https://forms.gle/5d9oopQpLitn4PP6A).
+If you'd like to be kept in the loop with major updates, please check out this [this page](https://newsletter.focusedwork.app).
 
 
 ## About the Developer
