@@ -100,11 +100,12 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
-    <img 
+<!--     <img 
       src="/assets/promoart/focusedwork_12promax_10.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
+ -->
 </p>
 
 ### iPad
@@ -141,21 +142,37 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
-  	<img 
+<!--   	<img 
   		src="/assets/promoart/focusedwork_ipadpro_faceid_6.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
+ -->
+</p>
+
+### Mac
+
+<p align="middle">
+  <img 
+      src="/assets/promoart/focusedwork_mac_1.jpg" 
+      width="300" 
+      style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+    />
+  <img 
+      src="/assets/promoart/focusedwork_mac_2.jpg" 
+      width="300" 
+      style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+    />
 </p>
 
 <p align="middle">
   <img 
-      src="/assets/promoart/focusedwork_ipadpro_faceid_7.jpg" 
+      src="/assets/promoart/focusedwork_mac_3.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
   <img 
-      src="/assets/promoart/focusedwork_ipadpro_faceid_8.jpg" 
+      src="/assets/promoart/focusedwork_mac_4.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
@@ -163,16 +180,30 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 <p align="middle">
   <img 
-      src="/assets/promoart/focusedwork_ipadpro_faceid_9.jpg" 
+      src="/assets/promoart/focusedwork_mac_5.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
   <img 
-      src="/assets/promoart/focusedwork_ipadpro_faceid_10.jpg" 
+      src="/assets/promoart/focusedwork_mac_6.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
 </p>
+
+<p align="middle">
+  <img 
+      src="/assets/promoart/focusedwork_mac_7.jpg" 
+      width="300" 
+      style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+    />
+  <img 
+      src="/assets/promoart/focusedwork_mac_8.jpg" 
+      width="300" 
+      style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+    />
+</p>
+
 
 ## Pricing
 
