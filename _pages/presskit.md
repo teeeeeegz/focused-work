@@ -6,7 +6,7 @@ include_in_header: yes
 
 # What is Focused Work?
 
-**Focused Work is a flexible focus timer that helps you structure your time effectively.**
+**Focused Work is a simple, flexible Focus Timer that helps you structure your time effectively.**
 
 Structure keeps you fresh and productive, so you can get more work done!
 
@@ -15,22 +15,24 @@ A key strength of Focused Work is creating timed focus sessions that break up ta
 > Each task, such as studying, coding, and content writing, could be structured as; a 5-minute
  Planning stage, two 45-minute Focused Work stages, with a 10-minute Break stage in the middle
 
-Every session helps you remain self-accountable by asking what will you focus on, and reminds you to maintain focus.
+Every session helps you remain self-accountable by asking what will you focus on, and reminds you to maintain your focus.
 
 ## Core Features
 
 - **Focus Sessions** Create structure for your tasks with Focused Work, Planning, and Break stages.
 - **Customise each Session** Reorder stages, adjust their length, and add quick notes.
 - **Self-accountability** Each session begins by asking what will you focus on, and remains on-screen.
-- **Simple design** See your focus and current stage at a glance, with an always-on countdown timer.
+- **Simple design** See your focus and current stage at a glance, with an always-on Count Down or Count Up timer.
 - **Focus Reminders** Avoid distractions by being reminded to stay focused during each session.
 - **Estimated finish time** Quickly see each session's finish time, to squeeze in an extra task.
 - **Productivity Dashboard** Track your productivity goals and build a daily focus streak.
-- **Session Reflection** Rate sessions, and add short notes to remember good and bad habits.
-- **Widgets** Quickly start a new session, view the countdown timer, and see your goal progress.
-- **Dark Mode** Quickly start a new session, view the countdown timer, and see your goal progress. 
+- **Session Reflection** Rate sessions. Add short notes to remember good and bad habits.
+- **Session Alerts across all devices** Start a focus session on Mac and continue receiving alerts on iPhone, iPad, and Apple Watch.
+- **Widgets** Quickly start a new session, view the countdown timer, and see your goal progress. 
 - **Optimised for iPadOS and macOS** Quickly start favourite sessions from the Sidebar, and use Keyboard Shortcuts. Connect a Magic Trackpad or Magic Mouse for a pleasant touch-less experience.
-- **More Best in Class platform features** Dynamic Type accessibility support. Low Power Mode awareness for iPhone.
+- **Siri Shortcuts** Start a focus session with Siri and chain multiple Shortcut automations that adjust your environment for focusing.
+- **Shortcut Triggers** Automatically trigger Shortcuts while you progress through a focus session and its stages. Session Start/Finish, Stage Start/End.
+- **More Best in Class platform features** Dynamic Type accessibility support. Low Power Mode awareness for iPhone. Dark Mode for night owls.
 - **Toggl Integration** Track time once by logging stages. Assign Projects and Tags. Create common presets.
 - **Productivity Export** Review all completed Focus Sessions in a simple CSV format. Analyse breadcrumbs such as when sessions were started, completed, and other events including how often stages were paused, skipped, or restarted.
 - **iCloud Syncing** Move between iPhone, iPad, and Mac. Created sessions and productivity history are synced between devices with the same Apple ID.
@@ -100,12 +102,11 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
-<!--     <img 
+    <img 
       src="/assets/promoart/focusedwork_12promax_10.jpg" 
       width="300" 
       style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
     />
- -->
 </p>
 
 ### iPad
@@ -142,12 +143,11 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
-<!--   	<img 
+  	<img 
   		src="/assets/promoart/focusedwork_ipadpro_faceid_6.jpg" 
   		width="300" 
   		style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
   	/>
- -->
 </p>
 
 ### Mac

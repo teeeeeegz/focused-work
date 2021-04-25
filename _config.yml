@@ -54,17 +54,25 @@ features                                  :
     description                           : Track your productivity goals and build a daily focus streak.
     fontawesome_icon_name                 : chart-pie
 
-  - title                                 : Optimised for iPadOS and macOS
-    description                           : Quickly start sessions from the Sidebar, and use Keyboard Shortcuts.
-    fontawesome_icon_name                 : moon
-
   - title                                 : Toggl Integration
     description                           : Track time once by logging stages. Assign Projects and Tags. Create common presets.
     fontawesome_icon_name                 : power-off
 
+  - title                                 : Optimised for iPadOS and macOS
+    description                           : Quickly start sessions from the Sidebar, and use Keyboard Shortcuts.
+    fontawesome_icon_name                 : moon
+
+  - title                                 : Siri Shortcuts
+    description                           : Start a focus session with Siri. Adjust your environment for focusing with Shortcuts.
+    fontawesome_icon_name                 : layer-group
+
   - title                                 : iCloud Syncing
     description                           : Move between iPhone, iPad, and Mac. Created sessions and productivity history are synced.
     fontawesome_icon_name                 : sync
+
+  - title                                 : Session alerts across all devices
+    description                           : Start a focus session on Mac and continue receiving alerts on iPhone, iPad, Apple Watch.
+    fontawesome_icon_name                 : bell
 
   - title                                 : Productivity Export
     description                           : Review all completed Focus Sessions and breadcrumbs in a simple CSV format.
