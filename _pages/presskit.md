@@ -207,7 +207,7 @@ All images, promo art, and the Focused Work app logo are downloadable [here](/as
 
 ## Pricing
 
-Focused Work is free to download, with the option of a $9.99 yearly subscription, or $19.99 one-time purchase to unlock all features. Focused Work is a universal app for iPhone, iPad, and macOS.
+Focused Work is free to download, with the option of a $14.99 yearly subscription, or $34.99 one-time purchase to unlock all features. Focused Work is a universal app for iPhone, iPad, and macOS.
 
 ## Original Release Date
 

@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : moon
 
   - title                                 : Siri Shortcuts
-    description                           : Start a focus session with Siri. Adjust your environment for focusing with Shortcuts.
+    description                           : Start a focus session with Siri. Adjust your environment with Shortcuts for focusing.
     fontawesome_icon_name                 : layer-group
 
   - title                                 : iCloud Syncing
