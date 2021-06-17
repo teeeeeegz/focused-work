@@ -12,31 +12,31 @@ Structure keeps you fresh and productive, so you can get more work done!
 
 A key strength of Focused Work is creating timed focus sessions that break up tasks into smaller parts.
 
-> Each task, such as studying, coding, and content writing, could be structured as; a 5-minute
- Planning stage, two 45-minute Focused Work stages, with a 10-minute Break stage in the middle
+> You can create sessions for tasks like studying, coding, and content writing, and structure them as follows; begin with a 5-minute Planning stage, focus with a 50-minute Focused Work stage, rest with a 10-minute Break stage, and focus with a 30-minute Focused Work stage
 
-Every session helps you remain self-accountable by asking what will you focus on, and reminds you to maintain your focus.
+Focused Work encourages you to remain focused, be self-accountable, and complete productivity goals each day.
 
 ## Core Features
 
 - **Focus Sessions** Create structure for your tasks with Focused Work, Planning, and Break stages.
-- **Customise each Session** Reorder stages, adjust their length, and add quick notes.
-- **Self-accountability** Each session begins by asking what will you focus on, and remains on-screen.
-- **Simple design** See your focus and current stage at a glance, with an always-on Count Down or Count Up timer.
-- **Focus Reminders** Avoid distractions by being reminded to stay focused during each session.
-- **Estimated finish time** Quickly see each session's finish time, to squeeze in an extra task.
-- **Productivity Dashboard** Track your productivity goals and build a daily focus streak.
-- **Session Reflection** Rate sessions. Add short notes to remember good and bad habits.
-- **Session Alerts across all devices** Start a focus session on Mac and continue receiving alerts on iPhone, iPad, and Apple Watch.
-- **Widgets** Quickly start a new session, view the countdown timer, and see your goal progress. 
-- **Optimised for iPadOS and macOS** Quickly start favourite sessions from the Sidebar, and use Keyboard Shortcuts. Connect a Magic Trackpad or Magic Mouse for a pleasant touch-less experience.
-- **Siri Shortcuts** Start a focus session with Siri and chain multiple Shortcut automations that adjust your environment for focusing.
-- **Shortcut Triggers** Automatically trigger Shortcuts while you progress through a focus session and its stages. Session Start/Finish, Stage Start/End.
-- **More Best in Class platform features** Dynamic Type accessibility support. Low Power Mode awareness for iPhone. Dark Mode for night owls.
-- **Toggl Integration** Track time once by logging stages. Assign Projects and Tags. Create common presets.
-- **Productivity Export** Review all completed Focus Sessions in a simple CSV format. Analyse breadcrumbs such as when sessions were started, completed, and other events including how often stages were paused, skipped, or restarted.
+- **Self-accountability** Each session begins by asking what will you focus on.
+- **Customise each focus session** Adjust the duration, order, and focus of each stage.
+- **Simple Design** A minimal, always-on countdown timer, with session focus and progression.
+- **Focus Reminders** Be reminded to avoid distractions and stay focused mid-session.
+- **Time Commitment** Glanceable finish times for knowing whether you have time to focus on a task.
+- **Productivity Dashboard** Complete daily productivity goals and create a focused work streak.
+- **Session Reflection** Rate and reflect upon your level of productivity at the end of each completed session.
+- **Session Alerts across all devices** Start a Focus Session on your Mac, receive alerts on iPhone, iPad, and Apple Watch.
+- **Widgets** View the countdown timer, quickly start a session, and see your goal progress with themeable widgets.
+- **Optimised for iPadOS and macOS** Quickly start & control a session via the Sidebar, Menu Bar, or with Keyboard Shortcuts. Connect a Magic Trackpad or Magic Mouse for a pleasant touch-less experience.
+- **Siri Shortcuts** Start focus sessions with Siri and trigger shortcuts that adjust your environment for focusing, such as Do Not Disturb and playing music.
+- **Shortcut Triggers** Configure sessions to trigger shortcuts mid-session, such as when a session starts/finishes and when a stage starts/end.
+- **More Best in Class platform features** Dynamic Type and VoiceOver accessibility support. Low Power Mode awareness. Pure Black Dark Mode for night owls.
+- **Toggl Integration** Log completed Focused Work, Break, and Planning stages with Toggl Track. Assign Projects, Tags, and create common presets.
+- **Productivity Export** Review completed sessions in a simple CSV format. Analyse breadcrumbs such as when sessions were started, completed, and other events including how often stages were paused, skipped, or restarted.
 - **iCloud Syncing** Move between iPhone, iPad, and Mac. Created sessions and productivity history are synced between devices with the same Apple ID.
-- **App Icons** Twelve colours. Light & Dark variants. Pick a favourite icon to match your home screen.
+- **Dark Mode** A Pure Black in-app Dark Mode for working into the evening, and Completely Black widgets for dark Home Screens.
+- **App Icons** Pick a favourite icon to match your home screen. Twelve colours, Light & Dark variants.
 
 ## Media
 
